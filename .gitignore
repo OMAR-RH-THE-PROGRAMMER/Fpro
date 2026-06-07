@@ -1,0 +1,11 @@
+config/database.php
+public/uploads/avatars/*
+public/uploads/doctor_photos/*
+public/uploads/prescriptions/*
+!public/uploads/avatars/index.php
+!public/uploads/doctor_photos/index.php
+!public/uploads/prescriptions/index.php
+!public/uploads/prescriptions/.htaccess
+*.log
+.DS_Store
+Thumbs.db
